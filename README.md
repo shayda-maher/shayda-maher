@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shayda
 - 😄 Pronouns: she/her/hers
-- 📈 Data analyst professional
+- 📈 Data professional
 
 ## 🎓 Education
 - Bachelors of Science from Mills College
@@ -9,6 +9,7 @@
 
 ## 🛠️ Skills
 - Python
+- SQL
 - PowerBI
 - Tableau
 - MS Excel 
